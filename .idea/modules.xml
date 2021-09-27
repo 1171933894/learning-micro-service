@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning-micro-service.iml" filepath="$PROJECT_DIR$/.idea/learning-micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euraka/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/euraka/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euraka/spring-cloud-eureka-server-replica/spring-cloud-eureka-server-replica.iml" filepath="$PROJECT_DIR$/euraka/spring-cloud-eureka-server-replica/spring-cloud-eureka-server-replica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euraka/spring-cloud-product-service/spring-cloud-product-service.iml" filepath="$PROJECT_DIR$/euraka/spring-cloud-product-service/spring-cloud-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euraka/spring-cloud-user-service/spring-cloud-user-service.iml" filepath="$PROJECT_DIR$/euraka/spring-cloud-user-service/spring-cloud-user-service.iml" />
+    </modules>
+  </component>
+</project>
