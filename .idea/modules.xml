@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/learning-micro-service.iml" filepath="$PROJECT_DIR$/.idea/learning-micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/config/spring-cloud-config-server/spring-cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/euraka/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/euraka/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/euraka/spring-cloud-eureka-server-replica/spring-cloud-eureka-server-replica.iml" filepath="$PROJECT_DIR$/euraka/spring-cloud-eureka-server-replica/spring-cloud-eureka-server-replica.iml" />
       <module fileurl="file://$PROJECT_DIR$/euraka/spring-cloud-product-service/spring-cloud-product-service.iml" filepath="$PROJECT_DIR$/euraka/spring-cloud-product-service/spring-cloud-product-service.iml" />

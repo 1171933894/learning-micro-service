@@ -10,9 +10,11 @@
         <module name="spring-cloud-user-service" />
         <module name="spring-cloud-eureka-server" />
         <module name="spring-cloud-eureka-server-replica" />
+        <module name="spring-cloud-config-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-cloud-config-server" target="1.8" />
       <module name="spring-cloud-eureka-server" target="1.8" />
       <module name="spring-cloud-eureka-server-replica" target="1.8" />
       <module name="spring-cloud-product-service" target="1.8" />
@@ -21,6 +23,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-cloud-config-server" options="-parameters" />
       <module name="spring-cloud-eureka-server" options="-parameters" />
       <module name="spring-cloud-eureka-server-replica" options="-parameters" />
       <module name="spring-cloud-product-service" options="-parameters" />
